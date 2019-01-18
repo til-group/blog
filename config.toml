@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://til-group.github.io"
 DefaultContentLanguage = "kr"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
